@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning different programming languages and also learning their applications.
+- 🌱 B.Tech Student 
 - 📫 How to reach me: Email: shreyabatabyal2005@gmail.com
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
